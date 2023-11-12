@@ -171,6 +171,7 @@ events.out.*
 # Data
 data
 !*/data
+dycheck
 
 # Misc
 .vscode/
